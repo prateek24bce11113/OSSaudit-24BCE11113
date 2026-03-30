@@ -1,8 +1,5 @@
 # OSSaudit-24BCE11113
 Open Source Software Audit project using python and Linux shell scripts to analyze system information , file permissions , and logs
-# oss-audit-24BCE10804
-Open Source Software Audit Project
-Project Overview
 
 This repository contains my Open Source Software audit project completed as part of the Open Source Software course at VIT Bhopal. The objective of this project is to explore how open-source software works within a Linux environment and to understand the philosophy, ecosystem, and technical structure behind widely used FOSS tools.
 
